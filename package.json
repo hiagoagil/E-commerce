@@ -1,0 +1,22 @@
+{
+  "name": "refatorando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "chai": "^5.1.0",
+    "cypress": "^13.6.5",
+    "faker": "^6.6.6",
+    "faker-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai-fuzzy": "^1.6.1"
+  }
+}
